@@ -10,12 +10,15 @@ body{
   }
   
   .login-container {
+    position: absolute;
+    margin-top: 25px;
     width: 250px;
     height: 550px;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
   }
   
   .isi{
